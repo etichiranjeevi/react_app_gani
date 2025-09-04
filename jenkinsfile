@@ -4,7 +4,7 @@ pipeline {
     environment {
         BRANCH_NAME = 'main'
         REPO_URL = 'https://github.com/etichiranjeevi/react_app_gani.git'
-        TARGET_HOST = 'ubuntu@34.224.87.50'
+        TARGET_HOST = 'ubuntu@13.218.83.67'
         TARGET_DIR = '/var/www/html/RAP'
     }
 
